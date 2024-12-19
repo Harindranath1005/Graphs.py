@@ -3,7 +3,6 @@ import requests
 import json
 import pandas as pd
 import numpy as np
-from matplotlib import pyplot as plt
 import plotly.express as px
 
 x=st.text_input("Enter address")
